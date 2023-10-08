@@ -1,7 +1,7 @@
 
 ![Mask group(1)](https://github.com/mozdevz/Mozambique-Developer-Survey/assets/50568515/07c51e93-1c4e-48bc-88fb-ed675bab20da)
 
-# Mozambique-Developer-Survey
+# Mozambique Developer Survey (1st Edition)
 Mozambique Developer Survey is a comprehensive survey organized by MOZDEVZ to uncover the world of developers in Mozambique. In this survey, we explore the universe of technology and the development of technological solutions. The survey was conducted with over 600 aspiring and experienced developers from Mozambique, aged between 14 and 59 years old. Data was collected through an online questionnaire, which was shared via a link on social media and developer group
 ## Raw Data
 This section contains links to the  survey rawdata, including information about age, gender, education, experience, and the technologies used by participants in csv and xls formats.
