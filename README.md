@@ -16,7 +16,7 @@ To access this repository, follow these steps:
 4. Copy the repository's URL.
 5. Open a terminal and navigate to the folder where you want to clone the repository.
 6. Execute the following command:
-   `git clone <URL of the repository>`
+   `git clone https://github.com/mozdevz/Mozambique-Developer-Survey`
 
 ## How to Contribute
 
