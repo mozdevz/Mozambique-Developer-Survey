@@ -4,7 +4,7 @@ Mozambique Developer Survey is a comprehensive survey organized by MOZDEVZ to un
 
 * `Mozambique Developer Survey 1st Ed - Data`: This folder contains raw survey data, including information about age, gender, education, experience, and the technologies used by participants in csv and xls formats.
 * [Survey Website Page](survey.mozdevz.org): The website allows you to get the compiled English and Portuguese versions of the survey results.
-* Figma Design Assets and Complete Project](https://www.figma.com/community/file/1292861029158540894/mozambique-developer-survey): This link takes you to the MozDevz Figma Project for the Survey.
+* [Figma Design Assets and Complete Project](https://www.figma.com/community/file/1292861029158540894/mozambique-developer-survey): This link takes you to the MozDevz Figma Project for the Survey.
 
 ## How to Access
 
