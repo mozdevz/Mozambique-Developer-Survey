@@ -1,3 +1,5 @@
+
+
 # Mozambique-Developer-Survey
 Mozambique Developer Survey is a comprehensive survey organized by MOZDEVZ to uncover the world of developers in Mozambique. In this survey, we explore the universe of technology and the development of technological solutions.
 ## Shared Files
@@ -40,3 +42,5 @@ To contribute to this repository, follow these steps:
   - You can obtain more information about the research by openning an issue or sending an email to the [research author](survey@mozdevz.org).
 
 
+This is the English Version of the Readme
+[Versão em Português](https://github.com/mozdevz/Mozambique-Developer-Survey/blob/main/Readme(pT).md)
