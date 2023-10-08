@@ -22,3 +22,5 @@ Dowload the survey report:
   - more information about the research by openning an issue or sending an email to the [research author](survey@mozdevz.org).
 
 
+## License
+This project is under [GNU General Public License v3.0](LICENSE)
