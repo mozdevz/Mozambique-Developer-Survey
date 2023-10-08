@@ -8,39 +8,14 @@ Mozambique Developer Survey is a comprehensive survey organized by MOZDEVZ to un
 * [Survey Website Page](survey.mozdevz.org): The website allows you to get the compiled English and Portuguese versions of the survey results.
 * [Figma Design Assets and Complete Project](https://www.figma.com/community/file/1292861029158540894/mozambique-developer-survey): This link takes you to the MozDevz Figma Project for the Survey.
 
-## How to Access
-
-To access this repository, follow these steps:
-
-1. Create a GitHub account.
-2. Log in to your account.
-3. Click the "Clone or download" button on the repository's main page.
-4. Copy the repository's URL.
-5. Open a terminal and navigate to the folder where you want to clone the repository.
-6. Execute the following command:
-   `git clone https://github.com/mozdevz/Mozambique-Developer-Survey`
-
-## How to Contribute
-
-To contribute to this repository, follow these steps:
-
-1. Fork the repository.
-2. Make the necessary changes to the files.
-3. Send a pull request to the repository.
-
-## Additional Information
+## About the Data
 - The survey was conducted with over 600 aspiring and experienced developers from Mozambique, aged between 14 and 59 years old.
 - Data was collected through an online questionnaire, which was shared via a link on social media and developer groups.
 
-## Frequently Asked Questions
-
-- How can I contribute to the research?
+## How to Contribute
   - You can contribute to the research by forking the repository and submitting a pull request with changes or improvements.
   - Create interactive versions of the published data.
-
-- How can I get more information about the research?
-  - You can obtain more information about the research by openning an issue or sending an email to the [research author](survey@mozdevz.org).
-
+  - more information about the research by openning an issue or sending an email to the [research author](survey@mozdevz.org).
 
 This is the English Version of the Readme
 
