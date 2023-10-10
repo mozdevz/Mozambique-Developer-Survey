@@ -8,6 +8,7 @@ This section contains links to the  survey rawdata, including information about 
 - Survey form : [Click here](https://docs.google.com/document/d/14NZ_-Bdc4WRx-Jyc9mR2X32-HST1k-rv/edit?usp=sharing&ouid=104195983987021242816&rtpof=true&sd=true)
 - Raw CSV Data: [Download Here](https://github.com/mozdevz/Mozambique-Developer-Survey/blob/Corrections/Mozambique%20Developer%20Survey%201st%20Ed%20-%20Data/Mozambique%20Developer%20Survey%201st%20Ed%20-%20Data%20.csv)
 - Raw Excel (XLS) Data: [Download Here](https://github.com/mozdevz/Mozambique-Developer-Survey/blob/Corrections/Mozambique%20Developer%20Survey%201st%20Ed%20-%20Data/Mozambique%20Developer%20Survey%201st%20Ed%20-%20Data.xlsx)
+- Power BI eXtended File: [Download Here](https://github.com/mozdevz/Mozambique-Developer-Survey/blob/main/Mozambique%20Developer%20Survey%201st%20Ed%20-%20Data/Survey-Last_report.pbix)
 
 ## Report 
 Dowload the survey report:
