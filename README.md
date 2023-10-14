@@ -19,7 +19,7 @@ Dowload the survey report:
 ## How to Contribute
   - You can contribute to the research by forking the repository and submitting a pull request with changes or improvements.
   - Create interactive versions of the published data.
-  - more information about the research by openning an issue or sending an email to the [research author](survey@mozdevz.org).
+  - More information about the research by openning an issue or sending an email to the <survey@mozdevz.org>.
 
 
 ## License
